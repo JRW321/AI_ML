@@ -1,16 +1,16 @@
 ﻿ID,Label,Right Child,Left Child
 root,Where should we eat? American or International,American,International
 American,American. A chain or local business?,chain,local
-chain,Chain Cheap or expensive?,cheap,expensive
+chain,Chain. Cheap or expensive?,cheap,expensive
 cheap,Applebees,,
 expensive,Red Lobster,,
 local,Local Family friendly?,Yes,No
 Yes,Pizza joint,,
 No,Gastropub,,
 International,International. Asian or Other?,Asian,Other
-Asian,Asian Thai or Japanese?,Thai,Japanese
+Asian,Asian. Thai or Japanese?,Thai,Japanese
 Thai,Pad Thai Palace,,
 Japanese,Sushi-go-round,,
-Other,Other South American or Mediterranean?,South American,Mediterranean
+Other,Other. South American or Mediterranean?,South American,Mediterranean
 South American,Mexican Cantina,,
 Mediterranean,Gyro Palace,,
