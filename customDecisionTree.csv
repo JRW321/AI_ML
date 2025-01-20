@@ -1,13 +1,13 @@
 ﻿ID,Label,Right Child,Left Child
-root,?,American,International
-American,A chain or local business?,chain,local
+root,Where should we eat? American or International,American,International
+American,American. A chain or local business?,chain,local
 chain,Chain Cheap or expensive?,cheap,expensive
 cheap,Applebees,,
 expensive,Red Lobster,,
 local,Local Family friendly?,Yes,No
 Yes,Pizza joint,,
 No,Gastropub,,
-International,Asian or Other?,Asian,Other
+International,International. Asian or Other?,Asian,Other
 Asian,Asian Thai or Japanese?,Thai,Japanese
 Thai,Pad Thai Palace,,
 Japanese,Sushi-go-round,,
