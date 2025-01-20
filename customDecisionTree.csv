@@ -1,5 +1,5 @@
 ﻿ID,Label,Right Child,Left Child
-root,Where should we go for dinner?,American,International
+root,?,American,International
 American,A chain or local business?,chain,local
 chain,Chain Cheap or expensive?,cheap,expensive
 cheap,Applebees,,
