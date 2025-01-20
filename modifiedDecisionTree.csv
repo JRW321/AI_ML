@@ -1,0 +1,16 @@
+﻿ID,Label,Right Child,Left Child
+root,Is it a person not a thing?,person,thing
+person,Real not fictional?,Live,fiction
+Live,Live not dead?,Clooney,washington
+Clooney,George Clooney,,
+washington,George Washington,,
+fiction,Literary,frodo,elmer
+elmer,Elmer J. Fudd,,
+frodo,Frodo Baggins,,
+thing,Bigger than a breadbox?,mobile,device
+mobile,Mobile not stationary?,truck,building
+building,White House,,
+truck,A truck,,
+device,Electronic?,cellphone,pen
+cellphone,A cell phone,,
+pen,Pen,,
