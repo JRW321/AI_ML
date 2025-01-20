@@ -1,4 +1,4 @@
-﻿ID,Label,Right Child ,Left Child
+﻿ID,Label,Right Child,Left Child
 root,Where should we go for dinner?,American,International
 American,A chain or local business?,chain,local
 chain,Cheap or expensive?,cheap,expensive
