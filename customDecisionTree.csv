@@ -1,0 +1,16 @@
+﻿ID,Label,Right Child ,Left Child
+root,Where should we go for dinner?,American,International
+American,A chain or local business?,chain,local
+chain,Cheap or expensive?,cheap,expensive
+cheap,Applebees :(,,
+expensive,Red Lobster,,
+local,Family friendly?,Yes,No
+Yes,Local Pizza joint,,
+No,Local Gastropub,,
+International,Asian or Other?,Asian,Other
+Asian,Thai or Japanese?,Thai,Japanese
+Thai,Pad Thai Palace,,
+Japanese,Sushi-go-round,,
+Other,South American or Mediterranean?,South American ,Mediterranean
+South American,Mexican Cantina,,
+Mediterranean,Gyro Palace,,
